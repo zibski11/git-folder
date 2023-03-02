@@ -1,3 +1,10 @@
 komentarz 1 bez gita
 komentarz2 nieskomitowany narazie 21:15
 komentarz3  21:26
+
+git add .
+git commit -m "nazwa"
+git status
+git log --all --graph
+git checkout "hash"
+git checkout master
