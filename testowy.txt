@@ -8,3 +8,5 @@ git status
 git log --all --graph
 git checkout "hash"
 git checkout master
+
+versia 4 po przesunieciu head na master
