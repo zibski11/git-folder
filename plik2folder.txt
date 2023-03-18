@@ -3,3 +3,6 @@ test pusha 1 folder
 dziala wysylem z 2 folderu na 1
 
 zmiana na githubie robiona
+
+
+przeszlo wysylam na folder1
