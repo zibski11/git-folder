@@ -10,3 +10,5 @@ git checkout "hash"
 git checkout master
 
 versia 4 po przesunieciu head na master
+
+tez zmiana
